@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+/pubspec.lock
+/.idea/
+/binance_widget_assistant.iml
+/.metadata
